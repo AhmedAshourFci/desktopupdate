@@ -1,0 +1,436 @@
+{
+  "files": [
+    {
+      "path": "bitsdojo_window_windows_plugin.lib",
+      "hash": "cbc4f774cc393ee9f53c89d2d4e1810d0e08777edf32649f6928a5100c743c7f"
+    },
+    {
+      "path": "connectivity_plus_plugin.dll",
+      "hash": "3ba12e80aa9be6f6b1db33e1c1555f62c634ec25fcfd6e170766c29026ffed70"
+    },
+    {
+      "path": "desktop_lifecycle_plugin.dll",
+      "hash": "76c11ede380ba68f5d0a2bbc06882fce5c70ac08901e8ef60104676501d394cd"
+    },
+    {
+      "path": "desktop_multi_window_plugin.dll",
+      "hash": "240809762bf4332555f63697689be232db88604573c2e22911df7f42a029dc31"
+    },
+    {
+      "path": "desktop_screenshot_plugin.dll",
+      "hash": "e19b73a8478b182d18daa9dc1896b90cead091ff76ed37b962f953e7f5aadf36"
+    },
+    {
+      "path": "desktop_updater_plugin.dll",
+      "hash": "3d530b34a881f0f568d208031e0021cb9b59303692529dd57fcd0e7441cc2179"
+    },
+    {
+      "path": "flutter_acrylic_plugin.dll",
+      "hash": "779f7057de234203fd310cd17ab03e7a4e8a0171708983d58eec0864007e5f7b"
+    },
+    {
+      "path": "flutter_screen_capture_plugin.dll",
+      "hash": "a57cb3afc14416f8f9278e1da2d2f11eb781f157f9d8d2825635506f9991889b"
+    },
+    {
+      "path": "flutter_timezone_plugin.dll",
+      "hash": "939757f4a88bf9ff89e4224ab2c84bb2033a20cf5745abeae8b694d6d871c140"
+    },
+    {
+      "path": "flutter_windows.dll",
+      "hash": "dd156c0e10ca662e10d7a556fc0c0efd4603c27f36980a5d9130fd3a3dc6ad95"
+    },
+    {
+      "path": "hid_listener.dll",
+      "hash": "e053a0817cc946c88162e67763ad6c2703f75489ea410a08437705868d7f42f4"
+    },
+    {
+      "path": "local_notifier_plugin.dll",
+      "hash": "81a9a976ffae67f35d33ea56dc6886738240e4a1d7bb1043369d877deb3a6c5e"
+    },
+    {
+      "path": "mouse_event_plugin.dll",
+      "hash": "44b31a93e02eb1cded2ea864f819ae98af2ae2171a58420cd5e07aa9cdc1b6e5"
+    },
+    {
+      "path": "screen_capturer_windows_plugin.dll",
+      "hash": "47d48d11967790d647c5c592b4b87c81904a2e2ee854a806eec7af5f288f4974"
+    },
+    {
+      "path": "screen_retriever_windows_plugin.dll",
+      "hash": "26a653fb788242616880e1ae670ae76b6c6934cec55ff56b0686718f252f53c2"
+    },
+    {
+      "path": "system_tray_plugin.dll",
+      "hash": "562f026218459766f0e88a039469ee72d39d118e7e2c307db55dc968bb84a76e"
+    },
+    {
+      "path": "time_doctor_app.exe",
+      "hash": "619bce15effd13b10abd2bea6c0150f6033c2fa5261b2f0b60fd2bd734f4bbb4"
+    },
+    {
+      "path": "time_doctor_app.exp",
+      "hash": "eedb7b4679b8b7db8f75ebe8507604ccaa49cf2f52027ebd550ad993efd17bc0"
+    },
+    {
+      "path": "time_doctor_app.lib",
+      "hash": "29eea7e847b41065a1d2550532aab9be2ec0e809d5c55280b2384fdfd3c9ed9f"
+    },
+    {
+      "path": "tray_manager_plugin.dll",
+      "hash": "8101d6bd3f832bea065eeac5852c885445b84551110fbf4aa82da08ba58af2b6"
+    },
+    {
+      "path": "url_launcher_windows_plugin.dll",
+      "hash": "45427d080e9a459f6a08db7fd6716c1423414bebe49b8a8c7d46ad47bcdcbfc6"
+    },
+    {
+      "path": "window_focus_plugin.dll",
+      "hash": "5471fdc6d103dfe67b581dd4814acfc9dfee4b11085da381bb5a36f8898c2bdc"
+    },
+    {
+      "path": "window_manager_plugin.dll",
+      "hash": "bec4d00f64575a7b241e70cf4cd765a133965762459e13e52788679bd996b054"
+    },
+    {
+      "path": "data/app.so",
+      "hash": "30b5a982673fd931c304eb87437a1f7ced2df2d846e6b78ef030e082db751a6f"
+    },
+    {
+      "path": "data/icudtl.dat",
+      "hash": "c12537022ef818991a7bfed41a76d8d6ae962ffbc0e6511ac762a5d0845e7f7c"
+    },
+    {
+      "path": "data/flutter_assets/AssetManifest.bin",
+      "hash": "92c327b43d0d43eba30a0de6bf2edecbdcb235ce0e59da9bcf3f46e36db74994"
+    },
+    {
+      "path": "data/flutter_assets/AssetManifest.json",
+      "hash": "598622709eccfb00594131762c2729c8b51416caa31491028a354b3aea0cc9cf"
+    },
+    {
+      "path": "data/flutter_assets/FontManifest.json",
+      "hash": "dfefdc269da6692fe1b9dd7cc75c6eb9aec6114a6fcda260d308f89ddc4bf3b1"
+    },
+    {
+      "path": "data/flutter_assets/NativeAssetsManifest.json",
+      "hash": "9548a31e4a048135c1d94f919328bfb62ae2c7bb3cab96557c7941daa97776cb"
+    },
+    {
+      "path": "data/flutter_assets/NOTICES.Z",
+      "hash": "a0ad82ded17557db3893784bb46bb208f8d134cc226152809990a5555b432820"
+    },
+    {
+      "path": "data/flutter_assets/assets/animation/Animation%20Update%20App%20-%201713274047042.json",
+      "hash": "2dd6404106be7dc246eace810db0be1fea6232797374201fcf73ae8308b2a623"
+    },
+    {
+      "path": "data/flutter_assets/assets/animation/empty.json",
+      "hash": "81b44daffa8427fbb5bfeea484cc56eb0c890ac6a3804b696960c32291beb529"
+    },
+    {
+      "path": "data/flutter_assets/assets/animation/loading.json",
+      "hash": "3340309b16ff5ac1252fbac86913573a8bf9c89dc9450b6f28e9b536df484603"
+    },
+    {
+      "path": "data/flutter_assets/assets/animation/timer_pause.json",
+      "hash": "0924adfda49e746948d3a6391b47c67f609c75966fde60708c28f08b6cb54433"
+    },
+    {
+      "path": "data/flutter_assets/assets/animation/timer_play.json",
+      "hash": "9fc77507099dd0ce3ca38614d6e805fd40f3cde4080847b84835fc29e3d0578d"
+    },
+    {
+      "path": "data/flutter_assets/assets/animation/work%20from%20home.json",
+      "hash": "8341b9c9cd9e39a8236cc9ce77474922577cc207fc5b25dbed34f35b74d1e615"
+    },
+    {
+      "path": "data/flutter_assets/assets/fonts/Almarai/Almarai-Bold.ttf",
+      "hash": "353c525f8afc461ca6213ee210e77b865f2969ad1222a2cfc634680f1f4621d9"
+    },
+    {
+      "path": "data/flutter_assets/assets/fonts/Almarai/Almarai-ExtraBold.ttf",
+      "hash": "472460969d0882bcfbf2735d0c3c5b952d5f2aa1611d54255dd70ef6d4b2bb24"
+    },
+    {
+      "path": "data/flutter_assets/assets/fonts/Almarai/Almarai-Light.ttf",
+      "hash": "978642988f9da00d1a0bb13c1a90165be5584c88c0e08db139100b3e2999cdea"
+    },
+    {
+      "path": "data/flutter_assets/assets/fonts/Almarai/Almarai-Regular.ttf",
+      "hash": "94cc03a8a668a8657735a39947fc4ab26a45f60dfde20e892f5d4bae968563c0"
+    },
+    {
+      "path": "data/flutter_assets/assets/fonts/Cairo/static/Cairo-Black.ttf",
+      "hash": "aac1f813eafe0962fc42eb0cb35b4a420fb908f134a0c13e9ae4b6ce823fa903"
+    },
+    {
+      "path": "data/flutter_assets/assets/fonts/Cairo/static/Cairo-Bold.ttf",
+      "hash": "443f8f45f5ded2d8b8222f6945f3d6d7a7df7b4442a942ce0639d2781d309ca3"
+    },
+    {
+      "path": "data/flutter_assets/assets/fonts/Cairo/static/Cairo-ExtraBold.ttf",
+      "hash": "76e8457c9d07dcc70ed3d027274407832aad31c4998766973aa93d9534d0a835"
+    },
+    {
+      "path": "data/flutter_assets/assets/fonts/Cairo/static/Cairo-ExtraLight.ttf",
+      "hash": "a899bb20581e7f3fcde920f9f7cfdae6a528e94166203235120d4ab6dbbc0f4f"
+    },
+    {
+      "path": "data/flutter_assets/assets/fonts/Cairo/static/Cairo-Light.ttf",
+      "hash": "2e86b140154a230434a3ed33e296f3d084604f0922955ba247f08f956c1be0d9"
+    },
+    {
+      "path": "data/flutter_assets/assets/fonts/Cairo/static/Cairo-Medium.ttf",
+      "hash": "d5deeb1e71576bddd58b1e03fbbaf5522310878a623b4e91d08ed931a2e1b64c"
+    },
+    {
+      "path": "data/flutter_assets/assets/fonts/Cairo/static/Cairo-Regular.ttf",
+      "hash": "7560e24bb16a57b5085b1efe01956c4d6e7ae9cbf0efbc9767efa4738d8b965b"
+    },
+    {
+      "path": "data/flutter_assets/assets/fonts/Cairo/static/Cairo-SemiBold.ttf",
+      "hash": "6818d5e059e07a4e2d59e049dcd00bd1d47e86710b4ea877f71adfff2816ef1b"
+    },
+    {
+      "path": "data/flutter_assets/assets/fonts/MontserratArabic/Montserrat-Arabic-Bold.ttf",
+      "hash": "4c40891d8576937b2ffe901b88e7da0dd90d930571444fae8a230012740b1762"
+    },
+    {
+      "path": "data/flutter_assets/assets/fonts/MontserratArabic/Montserrat-Arabic-Light.ttf",
+      "hash": "17a8725d3d9422e6038203e4ad8e0390c0e72fc69a01e179cdffc96f613708db"
+    },
+    {
+      "path": "data/flutter_assets/assets/fonts/MontserratArabic/Montserrat-Arabic-Medium.ttf",
+      "hash": "59bb666f8aea8380db0d3a5266165a94cdde7de8e2b1cbec4ec7490664d3954a"
+    },
+    {
+      "path": "data/flutter_assets/assets/fonts/MontserratArabic/Montserrat-Arabic-Regular.ttf",
+      "hash": "1cb6e1a9f9ac639d35aca8d9d6a3739692915db9b39a9b454225a426eab4965b"
+    },
+    {
+      "path": "data/flutter_assets/assets/fonts/MontserratArabic/Montserrat-Arabic-SemiBold.ttf",
+      "hash": "cd64c9f9dff5282f3b08f30b965b1c085994d09db6a39fbde7a9e554cebbd676"
+    },
+    {
+      "path": "data/flutter_assets/assets/fonts/MontserratArabic/Montserrat-Arabic-Thin.ttf",
+      "hash": "3e4d3d9f66101d6bc133391e38ffd9f44adeffbfbbd0e9c74fc95e6ffbcd85f8"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/blue_logo.bmp",
+      "hash": "db0ff73975ab62402864985e8ca37ef86de4a68cd0d29486d2a5b7f958bf16fc"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/blue_logo.ico",
+      "hash": "6c3a47dd21dc8db7da167fd2498f56221df780432d78759f247ad5f1eea9eb3e"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/blue_logo.png",
+      "hash": "04e474a74d5d1133b86f3419fb0c511aecbf36b0ad2acc0dabd08c2d90883c2a"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/email_otp_icon.png",
+      "hash": "c3fecc309c536c283dbbd6544e5d3256b1159db4c054ccf1b6f90a8632363e73"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/error_icon.png",
+      "hash": "ff1b5642a10ba11eba3c7cf277d4847e47f016c35b8bd3cea656773306eb5e77"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/logo.png",
+      "hash": "7e3a4b6f4ed8b32e3a69d086bf86fed351228e0b53610e4630e17a3208195986"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/nointernet.png",
+      "hash": "57247738f4dd6b89d9b62a58d0293b5e1dfbfb19874641038d7b36f9d3192dfe"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/no_network.png",
+      "hash": "0c4656e982e5d86ccabd162c6f0644bb580f9bef7a7c2601ae9b83c602a80690"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/no_notifications.png",
+      "hash": "fdecaa95701c7910f0099e06063098bb8f8463a1088980af6210c417d305a862"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/profile_icon.jpg",
+      "hash": "d4cd1048629b9033521c5a64bf01e42db1451e304ab3a5cfcdc3463d8c9b9abe"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/profile_icon2.png",
+      "hash": "28f43f14b5446e108c24c06ed561ddc6ab1b47a5f6f487c2147dfa2b40cf472a"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/red_logo.bmp",
+      "hash": "5c53245ade9900fb6137991b6d09d0f55a5cc1d242b302a7b1f70dd831713c1e"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/red_logo.ico",
+      "hash": "e4062bf13418024b0bab027fb0afcd1dd8acd56548d8d957f3d332fc3c1b1339"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/red_logo.png",
+      "hash": "c0c47e4ec08b6f59743e3e95561a1303410410d00869ae2cd0cfff441aa685bf"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/splash_bg_image.png",
+      "hash": "fd983a6238e2521394b5a12f22776e76fcbda0abea65b6c1f4a8c9365702f76b"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/splash_logo.png",
+      "hash": "7e3a4b6f4ed8b32e3a69d086bf86fed351228e0b53610e4630e17a3208195986"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/white_logo.bmp",
+      "hash": "895bd4b6ee6eb5d88838189b64b7a69e0931dd8ea71f2eaf692c997a55b22b72"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/white_logo.ico",
+      "hash": "eeced1cf6f6ba0b03017e5cda5542c141b4706c80246f3ab7a580960f078c888"
+    },
+    {
+      "path": "data/flutter_assets/assets/images/white_logo.png",
+      "hash": "7e3a4b6f4ed8b32e3a69d086bf86fed351228e0b53610e4630e17a3208195986"
+    },
+    {
+      "path": "data/flutter_assets/assets/lang/ar.json",
+      "hash": "ce0efd637050b1a7b540277951602792020bbf7a917f79788e4ca894372b1247"
+    },
+    {
+      "path": "data/flutter_assets/assets/lang/en.json",
+      "hash": "003bd8da08d5559bcbce37ad4c4d37bc7286c69408c59f6ad9065bdf99090120"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/bell.svg",
+      "hash": "0cd24fe9d5ee10cce13d0767e91051da69a2af2303cdeba5315c614516e4ae60"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/booking_svg_icon.svg",
+      "hash": "31199c25eab470f8aa09824a18cb5bc78f5486c0e41f39d19133c1137d38001f"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/empty%20data%20icon.svg",
+      "hash": "1f449e1ffaf050a158f450e1a7205cae85ba90e761eb64d03a8ea38c47f560de"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/empty_notifications.svg",
+      "hash": "1c4f29231dec7d981093cec6d45b3596c90c9ba7b5d2b4edf291ae8acbc5aa4f"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/essential.svg",
+      "hash": "d7df77ac2da63199648acca8c3727685751d7507cc0c095b75169ffe202e8e9e"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/eye-closed.svg",
+      "hash": "7a1b7dfcd6a47bf8c6a55015eba95ca53ef3acc79a344ef8fc68d73bcefaa91a"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/eye.svg",
+      "hash": "1a21ce4aed0fa5b9b6296d644e356c6b30a35004c79854a3fe1c3d142f60cf53"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/google_meeting.svg",
+      "hash": "c8f5cc3bad3d3d667292d9176c428f600527147dc56cc2d8eb9f0e32c162f3c2"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/history.svg",
+      "hash": "f5c6a45bad7cb87d8dcee26b4165ecec7f3ab54f50d5e23e9a522947d05e5795"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/home_svg_icon.svg",
+      "hash": "41030150f51afc601f94ccbed3e9f9b3dc9200a89f4ee487e60f368ece444115"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/language.svg",
+      "hash": "56a6b39e8ad71b23d4d7910f7fb09f6c58d748e7629b7b7dbe6a844efe8f5af0"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/loadder.svg",
+      "hash": "ae6e0958794a659d727bb5907738e7facf75e476e7689d78f28ba2bce6a8d492"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/location_pin_sv_icon.svg",
+      "hash": "f36f315e8b3a0fef7d0f9715ffb41954dfce9a38384aba11f5886a14c49e4fdd"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/lock.svg",
+      "hash": "1352b4c3a4f49369e9a6c5a4327879d4802cb5daa4952fd7c16e2ce8195a9487"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/login_top_image.svg",
+      "hash": "ee66e712d17a00a35801cbfa49324581feb68df0b4e8242f5c32b42963911b58"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/logout.svg",
+      "hash": "ea958b154c770f5a5deb033454ebe0d86211a4b637db47560deb796d500347c3"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/mail.svg",
+      "hash": "8926a4fb29ddf297b520f52a013d767c9d375f8dd138f6718de5e10af096297d"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/microsoft_meeting.svg",
+      "hash": "5b0472f1b7387ba4128da1376cbfb493591f0cae78fa1ed7eb8360b99975b433"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/nfc_icon.svg",
+      "hash": "269aad61966537b7bc8070d10d02d0aa9ae319e499c0b952ffc622dc437528c9"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/notification.svg",
+      "hash": "e0462db12b4d56c9d994553c6275bd4dbea0123a874d48aeb04ffe39a358bd7c"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/pdf_icon.svg",
+      "hash": "4a22358db1c6102237198adf7f7a157de96964836f2baecdf056247343d8443a"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/person.svg",
+      "hash": "d3a4941fe0c03287b199da8707e387809097a0e85f7a411e239fb61f6bb56c0f"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/privacy.svg",
+      "hash": "5148fdb71967add806d3f82703ab33e6c1538201b40469c7ab836a2f532547f0"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/profile_svg_icon.svg",
+      "hash": "4ff1b3790a80eade094834bf555e32d7143f855334dbb4fa55fc0f5a8e0a9949"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/qr_icon.svg",
+      "hash": "929dcce400f0aae538701858b992adf3ba520e88067c7539b168e4571fbec707"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/room_svg_icon.svg",
+      "hash": "63c40138e14cb24f57629930d39ef9e57f532462b8f911400e86a51ba8dad8bb"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/user.svg",
+      "hash": "d3f51e9f962b828f67abae60a5e3189b9419f497ff9f06624af3638107311a38"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/workspace_svg_icon.svg",
+      "hash": "e4eae8331c3f74bc1fcd0c17221c225866ff1ba0cb3f949616f9eab525a71b8d"
+    },
+    {
+      "path": "data/flutter_assets/assets/svgs/zoom_meeting.svg",
+      "hash": "e1a55d5a931fde619f176fd6c9cdd9b2ce8aa961b42d8b0fcacbf974c88b7bf8"
+    },
+    {
+      "path": "data/flutter_assets/fonts/MaterialIcons-Regular.otf",
+      "hash": "d9865b671a09d683d13a863089d8825e0f61a37696ce5d7d448bc8023aa62453"
+    },
+    {
+      "path": "data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
+      "hash": "67c44fe9183b002e79dde7f6977e2988661c9a3e4a3c5fce968787efdbed823c"
+    },
+    {
+      "path": "data/flutter_assets/packages/timezone/data/latest_all.tzf",
+      "hash": "4210b4c3f69dd572200c206ae928cd69c9381e4d4f47c674e6c677e52b27d880"
+    },
+    {
+      "path": "data/flutter_assets/shaders/ink_sparkle.frag",
+      "hash": "e5e61d50c9549bc35382bbbd1c9548d46c4fb9ddf40c3a698415ac7e005516c8"
+    }
+  ]
+}
