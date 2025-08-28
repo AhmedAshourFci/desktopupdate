@@ -53,7 +53,7 @@
                 ],
                 "date": "2025-08-01",
                 "mandatory": false,
-                "url": "https://github.com/AhmedAshourFci/desktopupdate/raw/refs/heads/main/2.0.0/hashes.json",
+                "url": "https://github.com/AhmedAshourFci/desktopupdate/raw/refs/heads/main/2.0.0",
                 "platform": "windows"
               },
               {
