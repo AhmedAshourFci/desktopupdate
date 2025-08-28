@@ -1,0 +1,96 @@
+ {
+            "appName": "Watcher App",
+            "description": "Please update the app to enjoy the latest improvements",
+            "items": [
+              {
+                "version": "2.0.0",
+                "shortVersion": 20,
+                "changes": [
+                  {
+                    "type": "feat",
+                    "message": "Brand new design for mobile"
+                  },
+                  {
+                    "type": "fix",
+                    "message": "Resolved login crash issue"
+                  }
+                ],
+                "date": "2025-08-01",
+                "mandatory": true,
+                "url": "https://www.example.com/archive/myapp/2.0.0%2B20-android.apk",
+                "platform": "android"
+              },
+              {
+                "version": "2.0.0",
+                "shortVersion": 20,
+                "changes": [
+                  {
+                    "type": "feat",
+                    "message": "Improved push notification handling"
+                  },
+                  {
+                    "type": "perf",
+                    "message": "Optimized app startup speed"
+                  }
+                ],
+                "date": "2025-08-01",
+                "mandatory": false,
+                "url": "https://www.example.com/archive/myapp/2.0.0%2B20-ios.ipa",
+                "platform": "ios"
+              },
+              {
+                "version": "2.0.0",
+                "shortVersion": 22,
+                "changes": [
+                  {
+                    "type": "chore",
+                    "message": "Updated dependencies"
+                  },
+                  {
+                    "type": "fix",
+                    "message": "Fixed window resize bug"
+                  }
+                ],
+                "date": "2025-08-01",
+                "mandatory": false,
+                "url": "https://www.example.com/archive/myapp/2.0.0%2B20-windows.exe",
+                "platform": "windows"
+              },
+              {
+                "version": "2.0.0",
+                "shortVersion": 20,
+                "changes": [
+                  {
+                    "type": "feat",
+                    "message": "Added dark mode support"
+                  },
+                  {
+                    "type": "fix",
+                    "message": "Fixed crash when closing the app"
+                  }
+                ],
+                "date": "2025-08-01",
+                "mandatory": true,
+                "url": "https://www.example.com/archive/myapp/2.0.0%2B20-macos.dmg",
+                "platform": "macos"
+              },
+              {
+                "version": "2.0.0",
+                "shortVersion": 20,
+                "changes": [
+                  {
+                    "type": "feat",
+                    "message": "Initial Linux release"
+                  },
+                  {
+                    "type": "fix",
+                    "message": "Improved package installation support"
+                  }
+                ],
+                "date": "2025-08-01",
+                "mandatory": false,
+                "url": "https://www.example.com/archive/myapp/2.0.0%2B20-linux.AppImage",
+                "platform": "linux"
+              }
+            ]
+          }
