@@ -2,39 +2,39 @@
   "files": [
     {
       "path": "bitsdojo_window_windows_plugin.lib",
-      "hash": "cbc4f774cc393ee9f53c89d2d4e1810d0e08777edf32649f6928a5100c743c7f"
+      "hash": "25fde64534a2a12928f75af6c3a8d03654798b16d8caaf809b531ab4c67b54ba"
     },
     {
       "path": "connectivity_plus_plugin.dll",
-      "hash": "3ba12e80aa9be6f6b1db33e1c1555f62c634ec25fcfd6e170766c29026ffed70"
+      "hash": "ed02db3e4070b2acc5ab0e83d1ce2eeaf120d6993ba5de597df833db3f171c9d"
     },
     {
       "path": "desktop_lifecycle_plugin.dll",
-      "hash": "76c11ede380ba68f5d0a2bbc06882fce5c70ac08901e8ef60104676501d394cd"
+      "hash": "125c08bd849f00acd3a0f42fabc7d61adb824be98d2c7c5d6b8a35cb83616d6f"
     },
     {
       "path": "desktop_multi_window_plugin.dll",
-      "hash": "240809762bf4332555f63697689be232db88604573c2e22911df7f42a029dc31"
+      "hash": "5b6a7764b36dd285feb1f2297c9e98c8d2d34cb0386dd7cbffe05b7ff1c56c38"
     },
     {
       "path": "desktop_screenshot_plugin.dll",
-      "hash": "e19b73a8478b182d18daa9dc1896b90cead091ff76ed37b962f953e7f5aadf36"
+      "hash": "c1464a4b7e401577f6dbad1a96768b262948769fe118f788358eaf7f9a15f7bb"
     },
     {
       "path": "desktop_updater_plugin.dll",
-      "hash": "3d530b34a881f0f568d208031e0021cb9b59303692529dd57fcd0e7441cc2179"
+      "hash": "c6381792b012f72faeb5f57a26ae9db9c0e46470dfe54d7d87629ab68593066d"
     },
     {
       "path": "flutter_acrylic_plugin.dll",
-      "hash": "779f7057de234203fd310cd17ab03e7a4e8a0171708983d58eec0864007e5f7b"
+      "hash": "67c52f926366a6361845a056af82fa8c686cc211223c3c580670777e03f3031a"
     },
     {
       "path": "flutter_screen_capture_plugin.dll",
-      "hash": "a57cb3afc14416f8f9278e1da2d2f11eb781f157f9d8d2825635506f9991889b"
+      "hash": "c52dad716ef2cd750c1e691315e451f419afb027b4fd35b2fa1d82865832d098"
     },
     {
       "path": "flutter_timezone_plugin.dll",
-      "hash": "939757f4a88bf9ff89e4224ab2c84bb2033a20cf5745abeae8b694d6d871c140"
+      "hash": "7ad8cf73ae7d5b69589b6e83ad332987935970d8b9f69e76431d35e0d65e9284"
     },
     {
       "path": "flutter_windows.dll",
@@ -42,31 +42,31 @@
     },
     {
       "path": "hid_listener.dll",
-      "hash": "e053a0817cc946c88162e67763ad6c2703f75489ea410a08437705868d7f42f4"
+      "hash": "45d40487bee27c164f17f9f3ee23cdbaa4197359a6cc3f1e785a1c710353e467"
     },
     {
       "path": "local_notifier_plugin.dll",
-      "hash": "81a9a976ffae67f35d33ea56dc6886738240e4a1d7bb1043369d877deb3a6c5e"
+      "hash": "b98e95f33aa7d6843fe3aa27d14b8c2cfd43bf7a3ac452c91be70821665ee7a4"
     },
     {
       "path": "mouse_event_plugin.dll",
-      "hash": "44b31a93e02eb1cded2ea864f819ae98af2ae2171a58420cd5e07aa9cdc1b6e5"
+      "hash": "c5c80ed7d5f1daca96988020898e167d245a7b407f2bf4a389835c5499f9edda"
     },
     {
       "path": "screen_capturer_windows_plugin.dll",
-      "hash": "47d48d11967790d647c5c592b4b87c81904a2e2ee854a806eec7af5f288f4974"
+      "hash": "e1497a7104e3650d5153bb26dcd4a21ccb25ac2c44a77a4e0357f5f917a1465d"
     },
     {
       "path": "screen_retriever_windows_plugin.dll",
-      "hash": "26a653fb788242616880e1ae670ae76b6c6934cec55ff56b0686718f252f53c2"
+      "hash": "b2c8b676c6a20cf9089faddb402ca4a006da64d66de2791340e003d0190e10dd"
     },
     {
       "path": "system_tray_plugin.dll",
-      "hash": "562f026218459766f0e88a039469ee72d39d118e7e2c307db55dc968bb84a76e"
+      "hash": "e51c8829c33e7035befb5fbf82d096b6eb38db2825822b77e7ca995db0aadfcb"
     },
     {
       "path": "time_doctor_app.exe",
-      "hash": "619bce15effd13b10abd2bea6c0150f6033c2fa5261b2f0b60fd2bd734f4bbb4"
+      "hash": "3279dd777c6d19a55f1026d92b289055ed8ba7716a912cec3a210cf90ea82a7b"
     },
     {
       "path": "time_doctor_app.exp",
@@ -78,19 +78,19 @@
     },
     {
       "path": "tray_manager_plugin.dll",
-      "hash": "8101d6bd3f832bea065eeac5852c885445b84551110fbf4aa82da08ba58af2b6"
+      "hash": "8d1997f98198b533d8b3a0861ba6fc288ce550368f2ce07ef49f222e17185769"
     },
     {
       "path": "url_launcher_windows_plugin.dll",
-      "hash": "45427d080e9a459f6a08db7fd6716c1423414bebe49b8a8c7d46ad47bcdcbfc6"
+      "hash": "95bd6ea61d80097ba6a6638d8e8c7725d070a5ca71b30bdea7507ee092ef6adb"
     },
     {
       "path": "window_focus_plugin.dll",
-      "hash": "5471fdc6d103dfe67b581dd4814acfc9dfee4b11085da381bb5a36f8898c2bdc"
+      "hash": "e1b174e8efc1abb2ae787c46cc20329aa8d0a6987d6f8217421a124abb3f72b7"
     },
     {
       "path": "window_manager_plugin.dll",
-      "hash": "bec4d00f64575a7b241e70cf4cd765a133965762459e13e52788679bd996b054"
+      "hash": "8e3e8314f72a0e0d65026dec8964d53fd6c47f34e863f285be3ec9b2f3568221"
     },
     {
       "path": "data/app.so",
