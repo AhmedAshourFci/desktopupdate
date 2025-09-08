@@ -39,8 +39,8 @@
                 "platform": "ios"
               },
               {
-                "version": "2.0.0",
-                "shortVersion": 22,
+                "version": "1.0.2",
+                "shortVersion": 1,
                 "changes": [
                   {
                     "type": "chore",
@@ -51,7 +51,7 @@
                     "message": "Fixed window resize bug"
                   }
                 ],
-                "date": "2025-08-01",
+                "date": "2025-09-09",
                 "mandatory": false,
                 "url": "https://github.com/AhmedAshourFci/desktopupdate/raw/refs/heads/main/2.0.0",
                 "platform": "windows"
