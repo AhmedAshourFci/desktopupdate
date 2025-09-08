@@ -1,47 +1,42 @@
 [
   {
     "path": "bitsdojo_window_windows_plugin.lib",
-    "calculatedHash": "25fde64534a2a12928f75af6c3a8d03654798b16d8caaf809b531ab4c67b54ba",
+    "calculatedHash": "5652caa86b1a5e9431ff769b93e4e2dab1ad9299de0f6db15d983bb07c4b8c38",
     "length": 183774
   },
   {
     "path": "connectivity_plus_plugin.dll",
-    "calculatedHash": "ed02db3e4070b2acc5ab0e83d1ce2eeaf120d6993ba5de597df833db3f171c9d",
+    "calculatedHash": "e833beacbb1306d62b879269eff3aefea21be1a8546def7841c3af5a9107df53",
     "length": 94208
   },
   {
     "path": "desktop_lifecycle_plugin.dll",
-    "calculatedHash": "125c08bd849f00acd3a0f42fabc7d61adb824be98d2c7c5d6b8a35cb83616d6f",
+    "calculatedHash": "7f7e46a66f85e97a5ebe49ad1426fcc4cf92308bc3c31acf7771e3ba7289b45c",
     "length": 77312
   },
   {
-    "path": "desktop_multi_window_plugin.dll",
-    "calculatedHash": "5b6a7764b36dd285feb1f2297c9e98c8d2d34cb0386dd7cbffe05b7ff1c56c38",
-    "length": 110080
-  },
-  {
     "path": "desktop_screenshot_plugin.dll",
-    "calculatedHash": "c1464a4b7e401577f6dbad1a96768b262948769fe118f788358eaf7f9a15f7bb",
+    "calculatedHash": "832b7aecbe6fc6fd03be7a1134fb96bfb4ff1e0c9f5508f3e7a17c1c1965c0a0",
     "length": 87040
   },
   {
     "path": "desktop_updater_plugin.dll",
-    "calculatedHash": "c6381792b012f72faeb5f57a26ae9db9c0e46470dfe54d7d87629ab68593066d",
+    "calculatedHash": "a18194adc9fc379fdc3573ae9c2a41d7574787a25d62dd65dbdccc811c27839b",
     "length": 101376
   },
   {
     "path": "flutter_acrylic_plugin.dll",
-    "calculatedHash": "67c52f926366a6361845a056af82fa8c686cc211223c3c580670777e03f3031a",
+    "calculatedHash": "c7aa721687246e9380727c3f4317f017e191a8799ea7aa0c0d894a4d4c09311b",
     "length": 77824
   },
   {
     "path": "flutter_screen_capture_plugin.dll",
-    "calculatedHash": "c52dad716ef2cd750c1e691315e451f419afb027b4fd35b2fa1d82865832d098",
+    "calculatedHash": "827576b11818ea46e7217cd6828ffe2d93d23084e996331921696272b81c074a",
     "length": 80896
   },
   {
     "path": "flutter_timezone_plugin.dll",
-    "calculatedHash": "7ad8cf73ae7d5b69589b6e83ad332987935970d8b9f69e76431d35e0d65e9284",
+    "calculatedHash": "4bd1dd0f029b9fec7a05cf46cab9f2e807c0c88de3fa25c9d9980eaef2e56d78",
     "length": 76800
   },
   {
@@ -51,38 +46,38 @@
   },
   {
     "path": "hid_listener.dll",
-    "calculatedHash": "45d40487bee27c164f17f9f3ee23cdbaa4197359a6cc3f1e785a1c710353e467",
+    "calculatedHash": "43dfc308b511f9ad9fb97b5195f101c18732c0d174e27695efbf782604c90b8c",
     "length": 84480
   },
   {
     "path": "local_notifier_plugin.dll",
-    "calculatedHash": "b98e95f33aa7d6843fe3aa27d14b8c2cfd43bf7a3ac452c91be70821665ee7a4",
+    "calculatedHash": "b1e538a43d172101118517b8ddb5e8e5e6dc0b96e8fa1976b40685c5037c5f9e",
     "length": 163328
   },
   {
     "path": "mouse_event_plugin.dll",
-    "calculatedHash": "c5c80ed7d5f1daca96988020898e167d245a7b407f2bf4a389835c5499f9edda",
+    "calculatedHash": "52f4a40d1632d48688c38661177eba8351d57320a12d9e65771eb226c74f63a4",
     "length": 430080
   },
   {
     "path": "screen_capturer_windows_plugin.dll",
-    "calculatedHash": "e1497a7104e3650d5153bb26dcd4a21ccb25ac2c44a77a4e0357f5f917a1465d",
+    "calculatedHash": "47b3754c8ef6dd485abcf5f120482b3a0dde156bc9a102e79ad9a68fa0ed7170",
     "length": 101376
   },
   {
     "path": "screen_retriever_windows_plugin.dll",
-    "calculatedHash": "b2c8b676c6a20cf9089faddb402ca4a006da64d66de2791340e003d0190e10dd",
+    "calculatedHash": "29baf2af6ee0867e51075d12d66fe72e5b7dbcfb468723ce16ebdb6ffc63e8f1",
     "length": 116224
   },
   {
     "path": "system_tray_plugin.dll",
-    "calculatedHash": "e51c8829c33e7035befb5fbf82d096b6eb38db2825822b77e7ca995db0aadfcb",
+    "calculatedHash": "29c0dde90798f3d04809ec066ebc50222d398b013e5db7f629452036b9623003",
     "length": 125952
   },
   {
     "path": "time_doctor_app.exe",
-    "calculatedHash": "3279dd777c6d19a55f1026d92b289055ed8ba7716a912cec3a210cf90ea82a7b",
-    "length": 119296
+    "calculatedHash": "b7178a33cc214f28cc2ade4ff14dded698a5bfa891d8b6ea0cda9655918a621c",
+    "length": 122880
   },
   {
     "path": "time_doctor_app.exp",
@@ -96,28 +91,33 @@
   },
   {
     "path": "tray_manager_plugin.dll",
-    "calculatedHash": "8d1997f98198b533d8b3a0861ba6fc288ce550368f2ce07ef49f222e17185769",
+    "calculatedHash": "f99489c3c6473688533a4aa1917ea88d0a13ff1e6f7aed2d18e08e518967cb77",
     "length": 107008
   },
   {
     "path": "url_launcher_windows_plugin.dll",
-    "calculatedHash": "95bd6ea61d80097ba6a6638d8e8c7725d070a5ca71b30bdea7507ee092ef6adb",
+    "calculatedHash": "52f3b09865d9181b1a262a6865b52c93bb651ffde471a4512e9e34791bca19ad",
     "length": 89600
   },
   {
     "path": "window_focus_plugin.dll",
-    "calculatedHash": "e1b174e8efc1abb2ae787c46cc20329aa8d0a6987d6f8217421a124abb3f72b7",
+    "calculatedHash": "e02b0f114577ca9f03cfc2c04ad4002491b234007aeeddbdb96a4fbaf2cb3e6b",
     "length": 94720
   },
   {
     "path": "window_manager_plugin.dll",
-    "calculatedHash": "8e3e8314f72a0e0d65026dec8964d53fd6c47f34e863f285be3ec9b2f3568221",
-    "length": 140800
+    "calculatedHash": "b0cbeef945b317073c98bedca412dee7b380d17452dc7ef431bffa9778eff68e",
+    "length": 141312
+  },
+  {
+    "path": "window_manager_plus_plugin.dll",
+    "calculatedHash": "d605db255c6dba88060ed6ce610ddaa97f7cfd0a009a12a1449c1241fde306af",
+    "length": 167936
   },
   {
     "path": "data/app.so",
-    "calculatedHash": "30b5a982673fd931c304eb87437a1f7ced2df2d846e6b78ef030e082db751a6f",
-    "length": 11404208
+    "calculatedHash": "07edc94492726e2d069ebdd09c0cd1d8ecc853f4341f43db1a61b912abb6e94d",
+    "length": 11699120
   },
   {
     "path": "data/icudtl.dat",
@@ -146,8 +146,8 @@
   },
   {
     "path": "data/flutter_assets/NOTICES.Z",
-    "calculatedHash": "a0ad82ded17557db3893784bb46bb208f8d134cc226152809990a5555b432820",
-    "length": 124908
+    "calculatedHash": "a320758160488d7b68c93a80d7c947034606b67803e0e8c09834a60e1b49c741",
+    "length": 124214
   },
   {
     "path": "data/flutter_assets/assets/animation/Animation%20Update%20App%20-%201713274047042.json",
@@ -366,13 +366,13 @@
   },
   {
     "path": "data/flutter_assets/assets/lang/ar.json",
-    "calculatedHash": "ce0efd637050b1a7b540277951602792020bbf7a917f79788e4ca894372b1247",
-    "length": 21678
+    "calculatedHash": "35570bd49947ed28d704d96562f5b12330fe060356790737b2c1809028b5261e",
+    "length": 21772
   },
   {
     "path": "data/flutter_assets/assets/lang/en.json",
-    "calculatedHash": "003bd8da08d5559bcbce37ad4c4d37bc7286c69408c59f6ad9065bdf99090120",
-    "length": 16686
+    "calculatedHash": "d36034eff0c2646dc8f6c3b4248d886831b0f2f655d3ef1ab72377d7809448f2",
+    "length": 16766
   },
   {
     "path": "data/flutter_assets/assets/svgs/bell.svg",

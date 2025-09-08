@@ -440,5 +440,8 @@
   "Back": "Back",
   "timezone": "Time Zone",
   "Show": "Show",
-  "show": "Show"
+  "show": "Show",
+  "activity_bar": "Activity Bar",
+  "visible": "Visible",
+  "hidden": "Hidden"
 }
