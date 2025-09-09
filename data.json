@@ -40,7 +40,7 @@
               },
               {
                 "version": "1.0.2",
-                "shortVersion": 1,
+                "shortVersion": 2,
                 "changes": [
                   {
                     "type": "chore",
