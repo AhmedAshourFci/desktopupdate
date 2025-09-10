@@ -1,42 +1,42 @@
 [
   {
     "path": "bitsdojo_window_windows_plugin.lib",
-    "calculatedHash": "5652caa86b1a5e9431ff769b93e4e2dab1ad9299de0f6db15d983bb07c4b8c38",
+    "calculatedHash": "d0193b35e2dd0072ed28d697c19b2a463778480a8b64395e5cd589409aa7704a",
     "length": 183774
   },
   {
     "path": "connectivity_plus_plugin.dll",
-    "calculatedHash": "e833beacbb1306d62b879269eff3aefea21be1a8546def7841c3af5a9107df53",
+    "calculatedHash": "8e723dbf35ceb03bde7ee66bb498dcde12b717cafb563bc3a166c9f68b9a9271",
     "length": 94208
   },
   {
     "path": "desktop_lifecycle_plugin.dll",
-    "calculatedHash": "7f7e46a66f85e97a5ebe49ad1426fcc4cf92308bc3c31acf7771e3ba7289b45c",
+    "calculatedHash": "d2f39967e52f588d45f7b8a2bd158b57f645403080fb499381c01efb7a1249a4",
     "length": 77312
   },
   {
     "path": "desktop_screenshot_plugin.dll",
-    "calculatedHash": "832b7aecbe6fc6fd03be7a1134fb96bfb4ff1e0c9f5508f3e7a17c1c1965c0a0",
+    "calculatedHash": "23c0621edd88cc40dfc672313fbe28d45a28bf583ef32004429d43ac2a5c5f22",
     "length": 87040
   },
   {
     "path": "desktop_updater_plugin.dll",
-    "calculatedHash": "a18194adc9fc379fdc3573ae9c2a41d7574787a25d62dd65dbdccc811c27839b",
+    "calculatedHash": "7be7b6b829b9a385c9986e54ac28dc93446f5634453169aff1aa5a2f07e3f306",
     "length": 101376
   },
   {
     "path": "flutter_acrylic_plugin.dll",
-    "calculatedHash": "c7aa721687246e9380727c3f4317f017e191a8799ea7aa0c0d894a4d4c09311b",
+    "calculatedHash": "f32e689665e46e7d51f81fa66ecc16eb2c108397b5110a97705e53873cabf7b1",
     "length": 77824
   },
   {
     "path": "flutter_screen_capture_plugin.dll",
-    "calculatedHash": "827576b11818ea46e7217cd6828ffe2d93d23084e996331921696272b81c074a",
+    "calculatedHash": "d854bcf8a00cb07d72c66dc4895aac88ac31d113c8bbcb79853a182af19118ce",
     "length": 80896
   },
   {
     "path": "flutter_timezone_plugin.dll",
-    "calculatedHash": "4bd1dd0f029b9fec7a05cf46cab9f2e807c0c88de3fa25c9d9980eaef2e56d78",
+    "calculatedHash": "c8090cbf30570bcb4014b76fa20d686ce8cd997d491828c7f11a2ca93806ffc9",
     "length": 76800
   },
   {
@@ -46,37 +46,37 @@
   },
   {
     "path": "hid_listener.dll",
-    "calculatedHash": "43dfc308b511f9ad9fb97b5195f101c18732c0d174e27695efbf782604c90b8c",
+    "calculatedHash": "fe4b06011715bf340ece1c3bcec7d3f2efdf304e219ef34aceb44594c4e90b06",
     "length": 84480
   },
   {
     "path": "local_notifier_plugin.dll",
-    "calculatedHash": "b1e538a43d172101118517b8ddb5e8e5e6dc0b96e8fa1976b40685c5037c5f9e",
+    "calculatedHash": "3ad5fe93b8d88888e8ab8408bb482820b60ac26eb37c3fed197da6ba4fd04307",
     "length": 163328
   },
   {
     "path": "mouse_event_plugin.dll",
-    "calculatedHash": "52f4a40d1632d48688c38661177eba8351d57320a12d9e65771eb226c74f63a4",
+    "calculatedHash": "b2229d67f4d5a31fb76c58a3e74d492a93c2a90c16f6751107dd4aa80d18558e",
     "length": 430080
   },
   {
     "path": "screen_capturer_windows_plugin.dll",
-    "calculatedHash": "47b3754c8ef6dd485abcf5f120482b3a0dde156bc9a102e79ad9a68fa0ed7170",
+    "calculatedHash": "322b8860fb826063670eab5f8aa7fc9f90dbedf7a5d380a7d5185604de055581",
     "length": 101376
   },
   {
     "path": "screen_retriever_windows_plugin.dll",
-    "calculatedHash": "29baf2af6ee0867e51075d12d66fe72e5b7dbcfb468723ce16ebdb6ffc63e8f1",
+    "calculatedHash": "f42a5d4b9c1801bf58f59b9023d0f2b861b9d477da086de3ace0b2c9e6cd61a6",
     "length": 116224
   },
   {
     "path": "system_tray_plugin.dll",
-    "calculatedHash": "29c0dde90798f3d04809ec066ebc50222d398b013e5db7f629452036b9623003",
+    "calculatedHash": "d0675bb977fccc7e1a68549971a79e2081290c27565aac2eb3cd81ae61aa9619",
     "length": 125952
   },
   {
     "path": "time_doctor_app.exe",
-    "calculatedHash": "b7178a33cc214f28cc2ade4ff14dded698a5bfa891d8b6ea0cda9655918a621c",
+    "calculatedHash": "1db439d5e461c4725598bbbf5e91572c0d62a12c24da2b55267caa3ceffe3c48",
     "length": 122880
   },
   {
@@ -91,33 +91,33 @@
   },
   {
     "path": "tray_manager_plugin.dll",
-    "calculatedHash": "f99489c3c6473688533a4aa1917ea88d0a13ff1e6f7aed2d18e08e518967cb77",
+    "calculatedHash": "0a73c0854f4055da8356b146084a9a1aa745cdec371b2fdd6d8d876c4c8ce7cf",
     "length": 107008
   },
   {
     "path": "url_launcher_windows_plugin.dll",
-    "calculatedHash": "52f3b09865d9181b1a262a6865b52c93bb651ffde471a4512e9e34791bca19ad",
+    "calculatedHash": "9af1a48bc28307d4fd83ff686c98c845968b83fe9701cce81f28703625f0e4b6",
     "length": 89600
   },
   {
     "path": "window_focus_plugin.dll",
-    "calculatedHash": "e02b0f114577ca9f03cfc2c04ad4002491b234007aeeddbdb96a4fbaf2cb3e6b",
+    "calculatedHash": "200fda4849957e0398f31dfe188df22d83aaca91c6a372a3f8e5b79a2cf0b141",
     "length": 94720
   },
   {
     "path": "window_manager_plugin.dll",
-    "calculatedHash": "b0cbeef945b317073c98bedca412dee7b380d17452dc7ef431bffa9778eff68e",
+    "calculatedHash": "822af315d7d4e384b0525d11784911873de57d82b5c91668cb79c88014cc2eac",
     "length": 141312
   },
   {
     "path": "window_manager_plus_plugin.dll",
-    "calculatedHash": "d605db255c6dba88060ed6ce610ddaa97f7cfd0a009a12a1449c1241fde306af",
+    "calculatedHash": "5f9ebf5b0cf90f566255bf503d5fbe28f4af36c9942fb68180236c741d1d5a4b",
     "length": 167936
   },
   {
     "path": "data/app.so",
-    "calculatedHash": "07edc94492726e2d069ebdd09c0cd1d8ecc853f4341f43db1a61b912abb6e94d",
-    "length": 11699120
+    "calculatedHash": "3f80d4b44c6d909909fb2def3e91ad93b57ee68d07af0a1d38f2e469f2eb2125",
+    "length": 11682736
   },
   {
     "path": "data/icudtl.dat",
