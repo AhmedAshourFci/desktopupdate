@@ -76,7 +76,7 @@
   },
   {
     "path": "time_doctor_app.exe",
-    "calculatedHash": "15496ffcfe513d0b4da4e9a3c8ca5060ce52f9ebd141f27543d49f40b05e6bf6",
+    "calculatedHash": "85a56898583ab860bf93be058c4cbb5dbba0a47bfd5171c462131ca91bb308f5",
     "length": 122880
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "path": "data/app.so",
-    "calculatedHash": "5dc98799b30a8a19c64a56e717cc8b31e664a43a29b10d4fa1be624a596650c0",
+    "calculatedHash": "8c420491349aade688e6513248530dc6b4239fd18268ae870cde93fdc860441b",
     "length": 11682736
   },
   {
