@@ -39,16 +39,16 @@
                 "platform": "ios"
               },
               {
-                "version": "1.0.2",
-                "shortVersion": 2,
+                "version": "1.0.5",
+                "shortVersion": 5,
                 "changes": [
                   {
                     "type": "chore",
-                    "message": "Updated dependencies"
+                    "message": "Updated dependencies test"
                   },
                   {
                     "type": "fix",
-                    "message": "Fixed window resize bug"
+                    "message": "Fixed window resize bug 2025"
                   }
                 ],
                 "date": "2025-09-09",
