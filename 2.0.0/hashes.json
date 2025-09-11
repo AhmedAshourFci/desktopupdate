@@ -76,8 +76,8 @@
   },
   {
     "path": "time_doctor_app.exe",
-    "calculatedHash": "75b468f1f730d7e61707e345e4491705bd1c494d057688b91258315713b9c523",
-    "length": 122880
+    "calculatedHash": "e34f99f4c64d964b4f48c2f866d79e4e155a155a965a59f467c548f508eba8a0",
+    "length": 121856
   },
   {
     "path": "time_doctor_app.exp",
@@ -116,7 +116,7 @@
   },
   {
     "path": "data/app.so",
-    "calculatedHash": "5dc98799b30a8a19c64a56e717cc8b31e664a43a29b10d4fa1be624a596650c0",
+    "calculatedHash": "f939c9c049a96a44501d82d67106bf77452305c9f33cce90c12d25331f65380f",
     "length": 11682736
   },
   {
@@ -146,8 +146,8 @@
   },
   {
     "path": "data/flutter_assets/NOTICES.Z",
-    "calculatedHash": "a320758160488d7b68c93a80d7c947034606b67803e0e8c09834a60e1b49c741",
-    "length": 124214
+    "calculatedHash": "947c526c96818a57f2186e69c2c60727af6e5006bff37c6841a46d988b946869",
+    "length": 124205
   },
   {
     "path": "data/flutter_assets/assets/animation/Animation%20Update%20App%20-%201713274047042.json",
