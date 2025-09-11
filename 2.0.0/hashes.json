@@ -45,11 +45,6 @@
     "length": 19036160
   },
   {
-    "path": "hid_listener.dll",
-    "calculatedHash": "fe4b06011715bf340ece1c3bcec7d3f2efdf304e219ef34aceb44594c4e90b06",
-    "length": 84480
-  },
-  {
     "path": "local_notifier_plugin.dll",
     "calculatedHash": "3ad5fe93b8d88888e8ab8408bb482820b60ac26eb37c3fed197da6ba4fd04307",
     "length": 163328
@@ -76,7 +71,7 @@
   },
   {
     "path": "time_doctor_app.exe",
-    "calculatedHash": "e34f99f4c64d964b4f48c2f866d79e4e155a155a965a59f467c548f508eba8a0",
+    "calculatedHash": "d8aac3fd5e12dffcfd1e81e1927ffc243a30bf0ae64badb0555badaa88d4dda3",
     "length": 121856
   },
   {
@@ -116,7 +111,7 @@
   },
   {
     "path": "data/app.so",
-    "calculatedHash": "f939c9c049a96a44501d82d67106bf77452305c9f33cce90c12d25331f65380f",
+    "calculatedHash": "6682767f9bd6e3be3810fc723dbaede63bea079881078f51725a7c55b8000915",
     "length": 11682736
   },
   {
