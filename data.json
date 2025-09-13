@@ -51,9 +51,9 @@
                     "message": "Fixed window resize bug 2025"
                   }
                 ],
-                "date": "2025-09-09",
+                "date": "2025-09-13",
                 "mandatory": false,
-                "url": "https://github.com/AhmedAshourFci/desktopupdate/raw/refs/heads/main/2.0.0",
+                "url": "https://github.com/AhmedAshourFci/desktopupdate/raw/refs/heads/main/windows",
                 "platform": "windows"
               },
               {
