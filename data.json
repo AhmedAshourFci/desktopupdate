@@ -75,8 +75,8 @@
                 "platform": "macos"
               },
               {
-                "version": "2.0.0",
-                "shortVersion": 20,
+                "version": "1.0.6",
+                "shortVersion": 6,
                 "changes": [
                   {
                     "type": "feat",
@@ -87,7 +87,7 @@
                     "message": "Improved package installation support"
                   }
                 ],
-                "date": "2025-08-01",
+                "date": "2025-09-13",
                 "mandatory": false,
                 "url": "https://github.com/AhmedAshourFci/desktopupdate/raw/refs/heads/main/linux",
                 "platform": "linux"
