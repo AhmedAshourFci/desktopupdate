@@ -89,7 +89,7 @@
                 ],
                 "date": "2025-08-01",
                 "mandatory": false,
-                "url": "https://www.example.com/archive/myapp/2.0.0%2B20-linux.AppImage",
+                "url": "https://github.com/AhmedAshourFci/desktopupdate/raw/refs/heads/main/linux",
                 "platform": "linux"
               }
             ]
